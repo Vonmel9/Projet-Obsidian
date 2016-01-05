@@ -120,3 +120,24 @@ footer ul li {
   font-family: sans-serif;
 
 }
+#news {
+  display: inline-block;
+  margin-right: 5%;
+  width: 60%;
+  vertical-align: top;
+}
+.latestnews {
+  margin-top: 2%;
+  display: inline-block;
+  width: 29.5%;
+  vertical-align: top;
+}
+#recherche {
+background-color: black;
+color: white;
+border: 3px;
+}
+img  {
+width: 95%;
+height: 95%;
+}
