@@ -299,6 +299,27 @@ center {
 
 }
 
+/* VIDEOS */
+ #tbleVideos tr td {
+   color: white;
+   font-weight: bold;
+   padding-bottom: 10px;
+ }
+
+ #tbleVideos {
+   padding-bottom: 50px;
+ }
+
+ #tbleVideos tr td img {
+   width: 340px;
+   height: 190px;
+   padding-bottom: 10px;
+ }
+
+ #Photo6 {
+   padding-top: 24px;
+ }
+
 /* MUSIC */
 
 #pochetteMusic {
@@ -471,6 +492,7 @@ hr {
   border-bottom: 1px solid rgba(173, 173, 173, 0.4);
   padding-bottom: 40px;
 }
+
 /* CONTACT */
 
 #tableau_contact {
