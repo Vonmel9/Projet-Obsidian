@@ -410,6 +410,67 @@ hr {
   padding-bottom: 15px;
 }
 
+/* NEWS */
+
+#news {
+  display: inline-block;
+  margin-right: 5%;
+  width: 65%;
+  vertical-align: top;
+}
+
+#news p {
+  font-size: 14px;
+}
+
+#datenews {
+  opacity:0.6;
+}
+
+.latestnews {
+  margin-top: 2%;
+  display: inline-block;
+  width: 29.5%;
+  vertical-align: top;
+
+  font-size: 14px;
+}
+
+.latestnews h4 {
+  color:white;
+}
+
+#imagesnews  {
+  width: 98%;
+  height: 95%;
+}
+
+#page1news  {
+  margin-bottom: 15px;
+  display: inline-block;
+  width: 35px;
+  height: 30px;
+  padding-top: 5px;
+  border: 1px #595959 solid;
+  color #FFFFFF;
+  background-color: #595959;
+  text-align: center;
+}
+
+#page2news  {
+  display: inline-block;
+  width: 35px;
+  height: 30px;
+  padding-top: 5px;
+  border: 1px #595959 solid;
+  color #FFFFFF;
+  text-align: center;
+}
+
+#final {
+  border-bottom: 1px solid rgba(173, 173, 173, 0.4);
+  padding-bottom: 40px;
+}
 /* CONTACT */
 
 #tableau_contact {
